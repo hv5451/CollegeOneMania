@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ManiaActivity!</string>
+    <string name="app_name">Mania</string>
+    <string name="d"></string>
+    <string name="Money">Manage your money</string>
+    <string name="Add">Add Money</string>
+    <string name="Subtract">Subtract Money</string>
+    <string name="AddNotes">Add Notes</string>
+    <string name="WriteMoney">Write Money to deposit</string>
+    <string name="Withdraw">Write Money to WithDraw</string>
+    <string name="Balance">Balance</string>
+    <string name="Write">Write Amount</string>
+    <string name="notes">Write Notes</string>
+    <string name="View">View Reports</string>
+    <string name="Report">See Your Money Report</string>
+    <string name="Mon">Money</string>
+    <string name="Note">Notes</string>
+    <string name="Total">Total</string>
+    <string name="status">Status</string>
+    <string name="Back">Back</string>
+    <string name="Notice">Notice Board</string>
+    <string name="AddNotice">AddNotice</string>
+    <string name="AddNotice1">Add Notice</string>
+    <string name="backnotice">back</string>
+    <string name="AddSubjects">Add Subject</string>
+    <string name="Mark">MarkAttendance</string>
+    <string name="ViewA">View Attendance</string>
+    <string name="ViewAttendance">Attendance Report</string>
+    <string name="FromTime">From Time</string>
+    <string name="AddTimeTable">Add Timetable</string>
+    <string name="ToTime">To Time</string>
+    <string name="SubjectName">Subject Name</string>
+    <string name="Todo">To do</string>
+    <string name="AddTime">Add TimeTable</string>
+    <string name="Attendance">Attendance Management</string>
+    <string name="BA">Back</string>
+
+</resources>
